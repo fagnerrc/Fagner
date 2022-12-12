@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Italianno&display=swap');
+.log {
+    margin-bottom: 14px;
+    color: rgb(99, 6, 80);
+    font-size: 60px;
+  }
+  
+  .logo2 {
+    background: linear-gradient(#6b1152, #de7ecc);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  a{
+    text-decoration: none;
+    border-bottom: solid 2px #3e274d;
+  }
+ .logo{
+  font-family: 'Fredericka the Great', cursive;
+  }

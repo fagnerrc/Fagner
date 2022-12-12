@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=La+Belle+Aurore&family=Zen+Dots&display=swap');
+
+
+.conteudo {
+    font-family: 'Zen Dots', cursive;
+    font-size: 1.2em;
+    text-align: justify;
+    line-height: 40px;
+    margin-top: 24px;
+}
+.conteudo h1 {
+    margin-bottom: 10px;
+    border-bottom: solid 2px;
+    padding-bottom: 23px;
+}
